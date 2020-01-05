@@ -8,28 +8,11 @@ output:
     number_sections: yes
     toc: yes
 job: Reproducible Pitch Presentation
-knit: slidify::knit2slides
-mode: selfcontained
-hitheme: tomorrow
-subtitle: variables and MPG
-framework: io2012
-widgets: bootstrap
 ---
 
-## Coursera Reproducible Pitch
 
-
-- Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
-
--"Since the beginning of the Data Science Specialization, we've noticed the unbelievable passion students have about our courses and the generosity they show toward each other on the course forums. A couple students have created quality content around the subjects we discuss, and many of these materials are so good we feel that they should be shared with all of our students."
-
-### Find all details here
-URL: *https://class.coursera.org/devdataprod-007*
-URL: *https://class.coursera.org/devdataprod-007/human_grading/view/courses/972606/assessments/5/submissions*
 
 ---
-
-## mtcars dataset
 
 ### Motor Trend Car Road Tests
 
